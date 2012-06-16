@@ -1,0 +1,9 @@
+Wlib, the W12 client library in C
+
+======== DEPENDENCIES ========
+None that I can think of right now. Liable to change soon ;)
+
+========== BUILDING ========== 
+cd Wlib; make
+
+examples of linking the library to compile client programmes are available in the examples folder.

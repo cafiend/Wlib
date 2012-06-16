@@ -1,0 +1,3 @@
+These are example W12 applications. Nothing very in-depth right now, but they should provide a decent base for how to develop simple apps.
+
+Each includes a Makefile showing how to link Wlib in properly.
